@@ -3,8 +3,8 @@
       {
         "id": 1,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Gertrudis Tatterton",
-        "Product Description": "lorem",
+        "Name": "Gertrudis Tatterton",
+        "Description": "lorem",
         "Gender":"Male",
         "Category":"Saree",
         "Price":5000
@@ -12,8 +12,8 @@
       {
         "id": 2,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Gail Newbatt",
-        "Product Description": "lorem",
+        "Name": "Gail Newbatt",
+        "Description": "lorem",
         "Gender":"Female",
         "Category":"Kurti",
         "Price":6000
@@ -23,8 +23,8 @@
       {
         "id": 3,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Walliw Wilstead",
-        "Product Description": "lorem",
+        "Name": "Walliw Wilstead",
+        "Description": "lorem",
         "Gender":"Male",
         "Category":"Lehanga",
         "Price":5500
@@ -32,8 +32,8 @@
       {
         "id": 4,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Abran Proback",
-        "Product Description": "lorem",
+        "Name": "Abran Proback",
+        "Description": "lorem",
         "Gender":"Female",
         "Category":"Jackets",
         "Price":6500
@@ -41,8 +41,8 @@
       {
         "id": 5,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Roda Chappelow",
-        "Product Description": "lorem",
+        "Name": "Roda Chappelow",
+        "Description": "lorem",
         "Gender":"Male",
         "Category":"Saree",
         "Price":7000
@@ -50,8 +50,8 @@
       {
         "id": 6,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Karney Wylie",
-        "Product Description": "lorem",
+        "Name": "Karney Wylie",
+        "Description": "lorem",
         "Gender":"Female",
         "Category":"Kurti",
         "Price":7500
@@ -59,8 +59,8 @@
       {
         "id": 7,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Cammi Pimbley",
-        "Product Description": "lorem",
+        "Name": "Cammi Pimbley",
+        "Description": "lorem",
         "Gender":"Male",
         "Category":"Lehanga",
         "Price":8000
@@ -68,8 +68,8 @@
       {
         "id": 8,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Gavra Manning",
-        "Product Description": "lorem",
+        "Name": "Gavra Manning",
+        "Description": "lorem",
         "Gender":"Female",
         "Category":"Jackets",
         "Price":8500
@@ -77,8 +77,8 @@
       {
         "id": 9,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Zachary Seward",
-        "Product Description": "lorem",
+        "Name": "Zachary Seward",
+        "Description": "lorem",
         "Gender":"Male",
         "Category":"Saree",
         "Price":9000
@@ -86,8 +86,8 @@
       {
         "id": 10,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AQTzaqMqhr6Piz6PkNuMnOjd4aAGvu1LvQ&usqp=CAU",
-        "Product Name": "Chucho Norssister",
-        "Product Description": "lorem",
+        "Name": "Chucho Norssister",
+        "Description": "lorem",
         "Gender":"Female",
         "Category":"Kurti",
         "Price":9500
